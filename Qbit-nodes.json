@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "name": "chain.connectinfo",
+      "name": "chainconnectinfo",
       "url": "qbitconnect.com",
       "port": 20101,
       "ssl": false,
@@ -52,6 +52,13 @@
     {
       "name": "bugtron.eu",
       "url": "28.134.218.104",
+      "port": 20101,
+      "ssl": false,
+      "cache": false
+    }, 
+    {
+      "name": "buglebug",
+      "url": "161.97.65.186",
       "port": 20101,
       "ssl": false,
       "cache": false
