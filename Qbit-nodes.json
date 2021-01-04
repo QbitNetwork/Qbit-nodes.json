@@ -62,6 +62,13 @@
       "port": 20101,
       "ssl": false,
       "cache": false
+    },
+     {
+      "name": "buglebug1",
+      "url": "173.249.44.125",
+      "port": 20101,
+      "ssl": false,
+      "cache": false
     },        
     {
       "name": "Ru.podicus",
