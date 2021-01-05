@@ -29,6 +29,13 @@
       "cache": false
     },
     {
+      "name": "ntestnet",
+      "url": "104.222.158.238",
+      "port": 20101,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "nodddies.dogRU",
       "url": "16.18.245.12",
       "port": 20101,
