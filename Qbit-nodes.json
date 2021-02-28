@@ -6,7 +6,14 @@
       "port": 20101,
       "ssl": false,
       "cache": false
-    },   
+    }, 
+    {
+      "name": "razzas.node",
+      "url": "136.244.70.217",
+      "port": 20101,
+      "ssl": false,
+      "cache": false
+    },        
     {
       "name": "noddies.node",
       "url": "95.111.242.134",
