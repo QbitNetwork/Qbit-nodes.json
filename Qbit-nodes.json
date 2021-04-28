@@ -92,6 +92,13 @@
       "cache": false
      },
     {
+      "name": "buglebug3",
+      "url": "144.91.116.226",
+      "port": 20101,
+      "ssl": false,
+      "cache": false
+     },
+    {
       "name": "Bot.Tips Blockchain Cache - SSL",
       "url": "dego.bot.tips",
       "port": 20101,
