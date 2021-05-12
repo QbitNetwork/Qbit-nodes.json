@@ -111,6 +111,7 @@
       "port": "20101",
       "ssl":   false,
       "cache": false
+    },
     {
       "name": "Trythis.hacker",
       "url": "4.21.242.52",
