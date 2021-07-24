@@ -113,14 +113,14 @@
       "cache": false
     },            
     {
-      "name": "Ru.podicus",
+      "name": "ru.podicus",
       "url": "213.136.80.146",
       "port": "20101",
       "ssl":   false,
       "cache": false
     },
     {
-      "name": "Trythis.hacker",
+      "name": "trythis.hacker",
       "url": "4.21.242.52",
       "port": 20101,
       "ssl":   false,
