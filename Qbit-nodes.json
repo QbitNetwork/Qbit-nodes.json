@@ -2,8 +2,15 @@
   "nodes": [
     
     {
-      "name": "blockapi.money",
+      "name": "aamoney",
       "url": "207.180.194.21",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+     }, 
+    {
+      "name": "anything",
+      "url": "144.91.116.226",
       "port": 20101,
       "ssl":   false,
       "cache": false
