@@ -1,0 +1,33 @@
+{
+  "name": "qbit-nodes-json",
+  "version": "0.0.1",
+  "description": "json list of public daemons",
+  "main": "Qbit-nodes.json",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/checkForDuplicates.js && node tests/checkAlphaNumeric.js && node tests/checkAlphabetical.js && mocha tests/checkNodes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QbitNetwork/Qbit-nodes.json"
+  },
+  "keywords": [
+    "Qbit",
+    "public",
+    "nodes"
+  ],
+  "author": "The TurtleCoin Developers and Qbit Team",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/QbitNetwork/Qbit-nodes.json/issues"
+  },
+  "homepage": "https://github.com/QbitNetwork/Qbit-nodes.json#readme",
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "mocha": "^6.2.2",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
+  }
+}
