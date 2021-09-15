@@ -104,6 +104,13 @@
       "port": 20101,
       "ssl":   false,
       "cache": false
+    },  
+    {
+      "name": "Qbit.blockapi.money",
+      "url": "194.163.149.242",
+      "port": 20101,
+      "ssl":   true,
+      "cache": false
     },    
     {
       "name": "razzas.node",
