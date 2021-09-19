@@ -15,13 +15,6 @@
       "cache": false
      }, 
      {
-      "name": "bugtron.eu",
-      "url": "28.134.218.104",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-     }, 
-     {
       "name": "buglebug",
       "url": "161.97.65.186",
       "port": 20101,
@@ -29,109 +22,11 @@
       "cache": false
      },
      {
-      "name": "buglebug1",
-      "url": "173.249.44.125",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-     }, 
-     {
-      "name": "buglebug2",
-      "url": "144.187.80.187",
+      "name": "bugtron.eu",
+      "url": "28.134.218.104",
       "port": 20101,
       "ssl":   false,
       "cache": false
      },
-     {
-      "name": "buglebug3",
-      "url": "144.91.116.226",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "Bot.Tips Blockchain Cache - SSL",
-      "url": "dego.bot.tips",
-      "port": 20101,
-      "ssl":   true,
-      "cache": true
-    },
-    {
-      "name": "chainconnectinfo",
-      "url": "qbitconnect.com",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    }, 
-    {
-      "name": "EU.hyperdyne",
-      "url": "170.119.124.33",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "merkelsdream.EU",
-      "url": "61.98.15.126",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "noddies.node",
-      "url": "95.111.242.134",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "noddies.dogru",
-      "url": "16.18.245.12",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "ntestnet",
-      "url": "104.222.158.238",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "oneforthe.Qbit",
-      "url": "146.118.1.133",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },  
-    {
-      "name": "Qbit.blockapi.money",
-      "url": "194.163.149.242",
-      "port": 20101,
-      "ssl":   true,
-      "cache": false
-    },    
-    {
-      "name": "razzas.node",
-      "url": "136.244.70.217",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },            
-    {
-      "name": "ru.podicus",
-      "url": "213.136.80.146",
-      "port": "20101",
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "trythis.hacker",
-      "url": "4.21.242.52",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    }
   ]
 }
