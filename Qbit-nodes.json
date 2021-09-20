@@ -21,13 +21,6 @@
       "ssl":   false,
       "cache": false
      },
-     {
-      "name": "bugtron.eu",
-      "url": "28.134.218.104",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-     },
     {
       "name": "buglebug1",
       "url": "173.249.44.125",
@@ -48,6 +41,13 @@
       "port": 20101,
       "ssl":   false,
       "cache": false
-    }
+    },
+    {
+      "name": "bugtron.eu",
+      "url": "28.134.218.104",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+     }
   ]
 }
