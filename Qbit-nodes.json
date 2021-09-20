@@ -27,6 +27,27 @@
       "port": 20101,
       "ssl":   false,
       "cache": false
-     }
+     },
+    {
+      "name": "buglebug1",
+      "url": "173.249.44.125",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+     }, 
+     {
+      "name": "buglebug2",
+      "url": "144.187.80.187",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+     },
+     {
+      "name": "buglebug3",
+      "url": "144.91.116.226",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+    }
   ]
 }
