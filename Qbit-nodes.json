@@ -34,20 +34,6 @@
       "port": 20101,
       "ssl":   false,
       "cache": false
-     },
-     {
-      "name": "buglebug3",
-      "url": "144.91.116.226",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "bugtron.eu",
-      "url": "28.134.218.104",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
      }
   ]
 }
