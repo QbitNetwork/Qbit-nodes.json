@@ -10,10 +10,10 @@
         "address": "",
         "amount": 0
       },
-      "availability": 94.4444,
+      "availability": 60,
       "online": true,
       "version": "1.0.0",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "Bot.Tips Blockchain Cache - SSL",
@@ -28,7 +28,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "bugleBug",
@@ -43,7 +43,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "bugleBug1",
@@ -58,7 +58,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "bugleBug2",
@@ -73,7 +73,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "chainConnectinfo",
@@ -88,7 +88,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "EU.Hyperdyne",
@@ -103,7 +103,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "merkelsDream.EU",
@@ -118,7 +118,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "myMoney",
@@ -133,7 +133,7 @@
       "availability": 0,
       "online": true,
       "version": "1.0.0",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "noddies.Dogru",
@@ -148,7 +148,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "noddies.Node1",
@@ -163,7 +163,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "ntestNet",
@@ -178,7 +178,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "oneForthe.Qbit",
@@ -193,7 +193,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "qbit.Blockapi.money",
@@ -208,7 +208,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "razzas.Node",
@@ -223,7 +223,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "ru.Podicus",
@@ -238,7 +238,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     },
     {
       "name": "tryThis.hacker",
@@ -253,11 +253,7 @@
       "availability": 0,
       "online": true,
       "version": "offline",
-      "timestamp": 1632262938
+      "timestamp": 1632265692
     }
   ]
 }
-
-
-
-
