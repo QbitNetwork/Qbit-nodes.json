@@ -1,7 +1,7 @@
 {
   "nodes": [
      {
-      "name": "aamoney",
+      "name": "myMoney",
       "url": "207.180.194.21",
       "port": 20101,
       "ssl":   false,
@@ -15,21 +15,21 @@
       "cache": false
      }, 
      {
-      "name": "buglebug",
+      "name": "bugleBug",
       "url": "161.97.65.186",
       "port": 20101,
       "ssl":   false,
       "cache": false
      },
     {
-      "name": "buglebug1",
+      "name": "bugleBug1",
       "url": "173.249.44.125",
       "port": 20101,
       "ssl":   false,
       "cache": false
      }, 
      {
-      "name": "buglebug2",
+      "name": "bugleBug2",
       "url": "144.187.80.187",
       "port": 20101,
       "ssl":   false,
@@ -43,77 +43,77 @@
       "cache": true
     },
     {
-      "name": "chainconnectinfo",
+      "name": "chainConnectinfo",
       "url": "qbitconnect.com",
       "port": 20101,
       "ssl":   false,
       "cache": false
     }, 
     {
-      "name": "EU.hyperdyne",
+      "name": "EU.Hyperdyne",
       "url": "170.119.124.33",
       "port": 20101,
       "ssl":   false,
       "cache": false
     },
     {
-      "name": "merkelsdream.EU",
+      "name": "merkelsDream.EU",
       "url": "61.98.15.126",
       "port": 20101,
       "ssl":   false,
       "cache": false
     },
     {
-      "name": "noddies.node1",
+      "name": "noddies.Node1",
       "url": "95.111.242.134",
       "port": 20101,
       "ssl":   false,
       "cache": false
     },
     {
-      "name": "noddies.dogru",
+      "name": "noddies.Dogru",
       "url": "16.18.245.12",
       "port": 20101,
       "ssl":   false,
       "cache": false
     },
     {
-      "name": "ntestnet",
+      "name": "ntestNet",
       "url": "104.222.158.238",
       "port": 20101,
       "ssl":   false,
       "cache": false
     },
     {
-      "name": "oneforthe.Qbit",
+      "name": "oneForthe.Qbit",
       "url": "146.118.1.133",
       "port": 20101,
       "ssl":   false,
       "cache": false
     },  
     {
-      "name": "Qbit.blockapi.money",
+      "name": "qbit.Blockapi.money",
       "url": "194.163.149.242",
       "port": 20101,
       "ssl":   true,
       "cache": false
     },    
     {
-      "name": "razzas.node",
+      "name": "razzas.Node",
       "url": "136.244.70.217",
       "port": 20101,
       "ssl":   false,
       "cache": false
     },            
     {
-      "name": "ru.podicus",
+      "name": "ru.Podicus",
       "url": "213.136.80.146",
       "port": "20101",
       "ssl":   false,
       "cache": false
     },
     {
-      "name": "trythis.hacker",
+      "name": "tryThis.hacker",
       "url": "4.21.242.52",
       "port": 20101,
       "ssl":   false,
