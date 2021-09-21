@@ -1,133 +1,263 @@
 {
   "nodes": [
-     {
-      "name": "myMoney",
-      "url": "207.180.194.21",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-     }, 
     {
       "name": "anythingHere",
       "url": "144.91.116.226",
       "port": 20101,
-      "ssl":   false,
-      "cache": false
-     }, 
-     {
-      "name": "bugleBug",
-      "url": "161.97.65.186",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-     },
-    {
-      "name": "bugleBug1",
-      "url": "173.249.44.125",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-     }, 
-     {
-      "name": "bugleBug2",
-      "url": "144.187.80.187",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-     },
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 94.4444,
+      "online": true,
+      "version": "1.0.0",
+      "timestamp": 1632262938
+    },
     {
       "name": "Bot.Tips Blockchain Cache - SSL",
       "url": "dego.bot.tips",
       "port": 20101,
-      "ssl":   true,
-      "cache": true
+      "ssl": true,
+      "cache": true,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
+    },
+    {
+      "name": "bugleBug",
+      "url": "161.97.65.186",
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
+    },
+    {
+      "name": "bugleBug1",
+      "url": "173.249.44.125",
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
+    },
+    {
+      "name": "bugleBug2",
+      "url": "144.187.80.187",
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
     },
     {
       "name": "chainConnectinfo",
       "url": "qbitconnect.com",
       "port": 20101,
-      "ssl":   false,
-      "cache": false
-    }, 
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
+    },
     {
       "name": "EU.Hyperdyne",
       "url": "170.119.124.33",
       "port": 20101,
-      "ssl":   false,
-      "cache": false
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
     },
     {
       "name": "merkelsDream.EU",
       "url": "61.98.15.126",
       "port": 20101,
-      "ssl":   false,
-      "cache": false
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
     },
     {
-      "name": "noddies.Node1",
-      "url": "95.111.242.134",
+      "name": "myMoney",
+      "url": "207.180.194.21",
       "port": 20101,
-      "ssl":   false,
-      "cache": false
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "1.0.0",
+      "timestamp": 1632262938
     },
     {
       "name": "noddies.Dogru",
       "url": "16.18.245.12",
       "port": 20101,
-      "ssl":   false,
-      "cache": false
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
+    },
+    {
+      "name": "noddies.Node1",
+      "url": "95.111.242.134",
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
     },
     {
       "name": "ntestNet",
       "url": "104.222.158.238",
       "port": 20101,
-      "ssl":   false,
-      "cache": false
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
     },
     {
       "name": "oneForthe.Qbit",
       "url": "146.118.1.133",
       "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },  
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
+    },
     {
       "name": "qbit.Blockapi.money",
       "url": "194.163.149.242",
       "port": 20101,
-      "ssl":   true,
-      "cache": false
-    },    
+      "ssl": true,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
+    },
     {
       "name": "razzas.Node",
       "url": "136.244.70.217",
       "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },            
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
+    },
     {
       "name": "ru.Podicus",
       "url": "213.136.80.146",
-      "port": "20101",
-      "ssl":   false,
-      "cache": false
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
     },
     {
       "name": "tryThis.hacker",
       "url": "4.21.242.52",
       "port": 20101,
-      "ssl":   false,
-      "cache": false
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632262938
     }
-
-
-
-
-
-
-
-
-    
-    
   ]
 }
+
+
+
+
