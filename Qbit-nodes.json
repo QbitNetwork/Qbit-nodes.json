@@ -1,20 +1,6 @@
 {
   "nodes": [
-    {
-      "name": "anythingHere",
-      "url": "144.91.116.226",
-      "port": 20101,
-      "ssl": false,
-      "cache": false,
-      "fee": {
-        "address": "",
-        "amount": 0
-      },
-      "availability": 60,
-      "online": true,
-      "version": "1.0.0",
-      "timestamp": 1632265692
-    },
+   
     {
       "name": "Bot.Tips Blockchain Cache - SSL",
       "url": "dego.bot.tips",
