@@ -6,20 +6,6 @@
       "port": 20101,
       "ssl": false,
       "cache": false,      
-     },
-    {
-      "name": "Bot.Tips Blockchain Cache - SSL",
-      "url": "dego.bot.tips",
-      "port": 20101,
-      "ssl": true,
-      "cache": true,      
-    },
-    {
-      "name": "bugleBug",
-      "url": "161.97.65.186",
-      "port": 20101,
-      "ssl": false,
-      "cache": false,    
-    }
+     }
   ]
 }
