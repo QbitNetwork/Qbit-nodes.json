@@ -92,8 +92,8 @@
       "cache": false,
     },
     {
-      "name": "qbit.Blockapi.money",
-      "url": "194.163.149.242",
+      "name": "qbitMoney",
+      "url": "https://Qbit.Blockapi.money/",
       "port": 20101,
       "ssl": true,
       "cache": false,
