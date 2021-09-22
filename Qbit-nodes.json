@@ -1,291 +1,259 @@
 {
   "nodes": [
     {
-      "name": "Ace TRTL Node",
-      "url": "ace.turtlenode.uk",
-      "port": 11898,
+      "name": "anythingHere",
+      "url": "144.91.116.226",
+      "port": 20101,
       "ssl": false,
-      "cache": false
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 60,
+      "online": true,
+      "version": "1.0.0",
+      "timestamp": 1632265692
     },
     {
-      "name": "Ace TRTL Node - SSL",
-      "url": "ace.turtlenode.uk",
-      "port": 443,
+      "name": "Bot.Tips Blockchain Cache - SSL",
+      "url": "dego.bot.tips",
+      "port": 20101,
       "ssl": true,
-      "cache": false
+      "cache": true,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
     },
     {
-      "name": "Antiban TRTLnode",
-      "url": "trtl_node.antiban.org",
-      "port": 11898,
+      "name": "bugleBug",
+      "url": "161.97.65.186",
+      "port": 20101,
       "ssl": false,
-      "cache": false
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
     },
     {
-      "name": "AzPool Public node",
-      "url": "trtl-node.azpool.win",
-      "port": 11898,
+      "name": "bugleBug1",
+      "url": "173.249.44.125",
+      "port": 20101,
       "ssl": false,
-      "cache": false
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
     },
     {
-      "name": "AzPool Public node - SSL",
-      "url": "trtl-node.azpool.win",
-      "port": 443,
+      "name": "bugleBug2",
+      "url": "144.187.80.187",
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
+    },
+    {
+      "name": "chainConnectinfo",
+      "url": "qbitconnect.com",
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
+    },
+    {
+      "name": "EU.Hyperdyne",
+      "url": "170.119.124.33",
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
+    },
+    {
+      "name": "merkelsDream.EU",
+      "url": "61.98.15.126",
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
+    },
+    {
+      "name": "myMoney",
+      "url": "207.180.194.21",
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "1.0.0",
+      "timestamp": 1632265692
+    },
+    {
+      "name": "noddies.Dogru",
+      "url": "16.18.245.12",
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
+    },
+    {
+      "name": "noddies.Node1",
+      "url": "95.111.242.134",
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
+    },
+    {
+      "name": "ntestNet",
+      "url": "104.222.158.238",
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
+    },
+    {
+      "name": "oneForthe.Qbit",
+      "url": "146.118.1.133",
+      "port": 20101,
+      "ssl": false,
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
+    },
+    {
+      "name": "qbit.Blockapi.money",
+      "url": "194.163.149.242",
+      "port": 20101,
       "ssl": true,
-      "cache": false
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
     },
     {
-      "name": "Beast TRTLnode",
-      "url": "publicssl.turtlenode.uk",
-      "port": 11898,
+      "name": "razzas.Node",
+      "url": "136.244.70.217",
+      "port": 20101,
       "ssl": false,
-      "cache": false
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
     },
     {
-      "name": "Beast TRTLnode - SSL",
-      "url": "publicssl.turtlenode.uk",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "BlackMulch - US East",
-      "url": "TRTLnode.ddns.net",
-      "port": 11898,
+      "name": "ru.Podicus",
+      "url": "213.136.80.146",
+      "port": 20101,
       "ssl": false,
-      "cache": false
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
     },
     {
-      "name": "Brazil Turtle Node",
-      "url": "brazilnode.ddns.net",
-      "port": 11898,
+      "name": "tryThis.hacker",
+      "url": "4.21.242.52",
+      "port": 20101,
       "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Chélone - France",
-      "url": "chelone.hopto.org",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Cowabunga TRTLnode",
-      "url": "cowabunga.turtlenode.uk",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Cowabunga TRTLnode - SSL",
-      "url": "cowabunga.turtlenode.uk",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "Cryptoarm - The Netherlands",
-      "url": "turtle.cryptoarm.nl",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Cuvéebits - Czech Republic",
-      "url": "cz.turtlecoin4ever.online",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Cuvéebits - Romania",
-      "url": "ro.turtlecoin4ever.online",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Damaceno's lab node - South America",
-      "url": "damacenohomerouter.duckdns.org",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Donate.TRTL.Bot.Tips",
-      "url": "trtl.bot.tips",
-      "port": 80,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Donate.TRTL.Bot.Tips SSL",
-      "url": "trtl.bot.tips",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "FairCryptoCoins Node",
-      "url": "node.faircryptocoins.xyz",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "FairCryptoCoins Node - SSL",
-      "url": "node.faircryptocoins.xyz",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "French TRTLnode",
-      "url": "turtlecoin.revz.fr",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Global TRTLnode",
-      "url": "turtlecoin.ddns.us",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "greywolf Germany",
-      "url": "turtlenode.co",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "HarryGames Node [UK]",
-      "url": "trtl.harry.games",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Hashvault.pro turtle node",
-      "url": "nodes.hashvault.pro",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Mascarin's LAB node - South America",
-      "url": "mascarins.duckdns.org",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Naughty-Turtle EU",
-      "url": "fast.naughty-turtle.com",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Node Turtle Coin EU",
-      "url": "nodeturtlecoineu.ddns.net",
-      "port": 5000,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Nordic Turtle Node - EU",
-      "url": "turtlecoin.publicnode.eu",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Nordic Turtle Node SSL - EU",
-      "url": "turtlecoin.publicnode.eu",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "ProxyLogin.net - US",
-      "url": "trtl.proxylogin.net",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "PUBLIC SSL TurtleNode NET",
-      "url": "public.turtlenode.net",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "PUBLIC TurtleNode NET",
-      "url": "public.turtlenode.net",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Scottish TRTLnode",
-      "url": "turtlenode.uk",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Scottish TRTLnode - SSL",
-      "url": "turtlenode.uk",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "TeamMatix TurtleNode - Germany",
-      "url": "trtl.teammatix.eu",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "TRTL China node - AWS JAPAN",
-      "url": "node.turtlecoinchina.com",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "TurtlePay - Load Balancer",
-      "url": "node.turtlepay.io",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "TurtleTurtle.Club - CA",
-      "url": "lily.turtleturtle.club",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Veuchveuch node - EU",
-      "url": "turtlenode.tippyturtle.com",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Vmi Turtle Node",
-      "url": "foolnode.tech",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
+      "cache": false,
+      "fee": {
+        "address": "",
+        "amount": 0
+      },
+      "availability": 0,
+      "online": true,
+      "version": "offline",
+      "timestamp": 1632265692
     }
   ]
 }
