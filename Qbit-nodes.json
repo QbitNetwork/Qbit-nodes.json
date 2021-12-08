@@ -12,22 +12,22 @@
       },
       "availability": 60,
       "online": true,
-      "version": "1.0.0",
+      "version": "1.0.1",
       "timestamp": 1632265692
     },
     {
       "name": "Blockchainnew",
       "url": "45.134.226.186",
       "port": 20101,
-      "ssl": true,
-      "cache": true,
+      "ssl": false,
+      "cache": false,
       "fee": {
         "address": "",
         "amount": 0
       },
       "availability": 0,
       "online": true,
-      "version": "offline",
+      "version": "1.0.1",
       "timestamp": 1632265692
     },
     {
