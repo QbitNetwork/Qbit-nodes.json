@@ -45,69 +45,10 @@
       "version": "offline",
       "timestamp": 1632265692
     },
-    {
-      "name": "bugleBug1",
-      "url": "173.249.44.125",
-      "port": 20101,
-      "ssl": false,
-      "cache": false,
-      "fee": {
-        "address": "",
-        "amount": 0
-      },
-      "availability": 0,
-      "online": true,
-      "version": "offline",
-      "timestamp": 1632265692
-    },
-    {
-      "name": "bugleBug2",
-      "url": "144.187.80.187",
-      "port": 20101,
-      "ssl": false,
-      "cache": false,
-      "fee": {
-        "address": "",
-        "amount": 0
-      },
-      "availability": 0,
-      "online": true,
-      "version": "offline",
-      "timestamp": 1632265692
-    },
+   
     {
       "name": "chainConnectinfo",
       "url": "qbitconnect.com",
-      "port": 20101,
-      "ssl": false,
-      "cache": false,
-      "fee": {
-        "address": "",
-        "amount": 0
-      },
-      "availability": 0,
-      "online": true,
-      "version": "offline",
-      "timestamp": 1632265692
-    },
-    {
-      "name": "EU.Hyperdyne",
-      "url": "170.119.124.33",
-      "port": 20101,
-      "ssl": false,
-      "cache": false,
-      "fee": {
-        "address": "",
-        "amount": 0
-      },
-      "availability": 0,
-      "online": true,
-      "version": "offline",
-      "timestamp": 1632265692
-    },
-    {
-      "name": "merkelsDream.EU",
-      "url": "61.98.15.126",
       "port": 20101,
       "ssl": false,
       "cache": false,
