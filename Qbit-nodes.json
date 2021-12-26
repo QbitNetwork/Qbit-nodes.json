@@ -1,25 +1,18 @@
 {
   "nodes": [
     {
-      "name": "Ace TRTL Node",
-      "url": "ace.turtlenode.uk",
-      "port": 11898,
-      "ssl": false,
+     "name": "myMoney",
+      "url": "207.180.194.21",
+      "port": 20101,
+      "ssl":   false,
       "cache": false
-    },
+     }, 
     {
-      "name": "Ace TRTL Node - SSL",
-      "url": "ace.turtlenode.uk",
-      "port": 443,
-      "ssl": true,
+      "name": "anythingHere",
+      "url": "144.91.116.226",
+      "port": 20101,
+      "ssl":   false,
       "cache": false
-    },
-    {
-      "name": "Antiban TRTLnode",
-      "url": "trtl_node.antiban.org",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    }
+     }
   ]
 }
