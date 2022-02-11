@@ -9,7 +9,7 @@
      }, 
      {
       "name": "bugleBug",
-      "url": "161.97.65.186",
+      "url": "45.134.226.186 ",
       "port": 20101,
       "ssl":   false,
       "cache": false
@@ -28,7 +28,14 @@
       "ssl":   false,
       "cache": false
      },
-     {
+    {
+      "name": "Bot.Tips Blockchain Cache - SSL",
+      "url": "dego.bot.tips",
+      "port": 20101,
+      "ssl":   true,
+      "cache": true
+    },
+    {
       "name": "chainConnectinfo",
       "url": "qbitconnect.com",
       "port": 20101,
@@ -37,7 +44,7 @@
     }, 
     {
       "name": "EU.Hyperdyne",
-      "url": "170.119.124.33",
+      "url": "194.163.132.39",
       "port": 20101,
       "ssl":   false,
       "cache": false
@@ -78,10 +85,10 @@
       "cache": false
     },  
     {
-      "name": "qbit.node",
-      "url": "194.163.149.242",
+      "name": "qbit.Blockapi.money",
+      "url": "144.91.96.158",
       "port": 20101,
-      "ssl":   false,
+      "ssl":   true,
       "cache": false
     },    
     {
