@@ -85,8 +85,8 @@
       "cache": false
     },  
     {
-      "name": "qbit.Blockapi.money",
-      "url": "144.91.96.158",
+      "name": "qbit-connect",
+      "url": "qbitconnect.com",
       "port": 20101,
       "ssl":   true,
       "cache": false
