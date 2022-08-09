@@ -6,71 +6,21 @@
       "port": 20101,
       "ssl":   false,
       "cache": false
-     }, 
-     {
+    }, 
+    {
       "name": "explorer",
       "url": "qbitblockexplorer.com",
       "port": 20101,
       "ssl":   false,
       "cache": false
-     },
-    {
-      "name": "bugleBug1",
-      "url": "173.249.44.125",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-     }, 
-     {
-      "name": "bugleBug2",
-      "url": "144.187.80.187",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-     },
+    },
     {
       "name": "chainConnectinfo",
       "url": "qbitconnect.com",
       "port": 20101,
       "ssl":   false,
       "cache": false
-    }, 
-    {
-      "name": "EU.Hyperdyne",
-      "url": "194.163.132.39",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "noddies.Node1",
-      "url": "95.111.242.134",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "razzas.Node",
-      "url": "136.244.70.217",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },            
-    {
-      "name": "ru.Podicus",
-      "url": "qbit.money",
-      "port": "20101",
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "tryThis.hacker",
-      "url": "4.21.242.52",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-  
-    }
+    } 
   ]
 }
 
