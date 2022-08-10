@@ -1,6 +1,6 @@
 # Qbit-nodes-json
 
-![Optional Text](../img/feature-image1.png)
+![Optional Text](img/feature-image1.png)
 
 JSON list of public daemons for Qbit (https://Qbit.money).
 
