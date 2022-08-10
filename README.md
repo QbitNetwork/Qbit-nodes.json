@@ -1,5 +1,7 @@
 # Qbit-nodes-json
 
+![Optional Text](../img/feature-image1.png)
+
 JSON list of public daemons for Qbit (https://Qbit.money).
 
 This list can be consumed in your application so you'll always have an up-to-date list of public nodes. To consume the list, use the following URL:  https://raw.githubusercontent.com/QbitNetwork/Qbit-nodes.json/main/Qbit-nodes.json
