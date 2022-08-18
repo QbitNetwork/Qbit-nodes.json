@@ -1,13 +1,6 @@
 {
   "nodes": [
     {
-      "name": "anythingHere",
-      "url": "144.91.116.226",
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    }, 
-    {
       "name": "explorer",
       "url": "qbitblockexplorer.com",
       "port": 20101,
@@ -27,7 +20,14 @@
       "port": 20101,
       "ssl":   false,
       "cache": false
-   }
+    },
+    {
+      "name": "anythingHere",
+      "url": "144.91.116.226",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+    }
   ]
 }
 
