@@ -20,7 +20,14 @@
       "port": 20101,
       "ssl":   false,
       "cache": false
-    } 
+    },
+    {
+     "name": "chaininfo",
+      "url": "45.134.226.186",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+   }
   ]
 }
 
