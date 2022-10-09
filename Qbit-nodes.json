@@ -4,14 +4,14 @@
       "name": "explorer",
       "url": "qbitblockexplorer.com",
       "port": 20101,
-      "ssl":   true,
+      "ssl":   false,
       "cache": false
     },
     {
       "name": "chainConnectinfo",
       "url": "qbitconnect.com",
       "port": 20101,
-      "ssl":   true,
+      "ssl":   false,
       "cache": false
     },
     {
