@@ -27,14 +27,57 @@
       "port": 20101,
       "ssl":   false,
       "cache": false
-    },
+    },165.30.130.220
     {
       "name": "anythingHere",
       "url": "144.91.116.226",
       "port": 20101,
       "ssl":   false,
       "cache": false
+    },
+    {
+      "name": "anythingHere",
+      "url": "165.30.130.220",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+    },
+    {
+      "name": "anythingHere",
+      "url": "29.48.165.16",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+    },
+    {
+      "name": "anythingHere",
+      "url": "151.154.72.57",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+    },
+    {
+      "name": "anythingHere",
+      "url": "184.91.190.222",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+    },
+    {
+      "name": "anythingHere",
+      "url": "208.49.227.106",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+    },
+    {
+      "name": "anythingHere",
+      "url": "80.40.40.168",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
     }
+
   ]
 }
 
