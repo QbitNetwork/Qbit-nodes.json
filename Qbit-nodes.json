@@ -76,8 +76,14 @@
       "port": 20101,
       "ssl":   false,
       "cache": false
+    },
+    {
+      "name": "limaservernode",
+      "url": "103.255.60.203",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
     }
-
   ]
 }
 
