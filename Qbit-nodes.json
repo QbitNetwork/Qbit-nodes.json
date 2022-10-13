@@ -36,42 +36,42 @@
       "cache": false
     },
     {
-      "name": "anythingHere",
+      "name": "chaingate",
       "url": "165.30.130.220",
       "port": 20101,
       "ssl":   false,
       "cache": false
     },
     {
-      "name": "anythingHere",
+      "name": "maznode",
       "url": "29.48.165.16",
       "port": 20101,
       "ssl":   false,
       "cache": false
     },
     {
-      "name": "anythingHere",
+      "name": "popsplant",
       "url": "151.154.72.57",
       "port": 20101,
       "ssl":   false,
       "cache": false
     },
     {
-      "name": "anythingHere",
+      "name": "iamworking",
       "url": "184.91.190.222",
       "port": 20101,
       "ssl":   false,
       "cache": false
     },
     {
-      "name": "anythingHere",
+      "name": "testmycode",
       "url": "208.49.227.106",
       "port": 20101,
       "ssl":   false,
       "cache": false
     },
     {
-      "name": "anythingHere",
+      "name": "moneymine",
       "url": "80.40.40.168",
       "port": 20101,
       "ssl":   false,
