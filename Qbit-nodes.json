@@ -15,6 +15,13 @@
       "cache": false
     },
     {
+     "name": "QbitTree",
+      "url": "213.136.80.146", 
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+    },
+    {
      "name": "infomack",
       "url": "194.163.132.39", 
       "port": 20101,
