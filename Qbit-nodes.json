@@ -28,6 +28,7 @@
       "ssl":   false,
       "cache": false
     },
+    {
       "name": "QbitMoneyExplorer",
       "url": "qbit.money/explorer", 
       "port": 20101,
