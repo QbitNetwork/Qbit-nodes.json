@@ -15,13 +15,6 @@
       "cache": false
     },
     {
-     "name": "QbitTree",
-      "url": "213.136.80.146", 
-      "port": 20101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
      "name": "infomack",
       "url": "194.163.132.39", 
       "port": 20101,
@@ -31,6 +24,12 @@
     {
       "name": "anythingHere",
       "url": "144.91.116.226",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+    },
+      "name": "QbitMoneyExplorer",
+      "url": "qbit.money/explorer", 
       "port": 20101,
       "ssl":   false,
       "cache": false
