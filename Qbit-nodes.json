@@ -32,7 +32,7 @@
       "name": "QbitMoneyExplorer",
       "url": "qbit.money/explorer", 
       "port": 20101,
-      "ssl":   false,
+      "ssl":   true,
       "cache": false
     },
     {
