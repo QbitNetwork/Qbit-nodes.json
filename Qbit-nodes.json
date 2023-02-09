@@ -29,11 +29,18 @@
       "cache": false
     },
     {
+      "name": "qbitallwaysup",
+      "url": "184.174.32.225",
+      "port": 20101,
+      "ssl":   false,
+      "cache": false
+    },
+    {
       "name": "QbitMoneyExplorer",
       "url": "qbit.money/explorer", 
       "port": 20101,
       "ssl":   true,
-      "cache": false
+      "cache": false 184.174.32.225
     },
     {
       "name": "chaingate",
