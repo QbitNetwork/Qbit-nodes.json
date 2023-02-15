@@ -23,7 +23,7 @@
     },
     {
       "name": "anythingHere",
-      "url": "144.91.116.226",
+      "url": "184.174.32.225",
       "port": 20101,
       "ssl":   false,
       "cache": false
@@ -37,10 +37,10 @@
     },
     {
       "name": "QbitMoneyExplorer",
-      "url": "qbit.money/explorer", 
+      "url": "213.136.80.146", 
       "port": 20101,
       "ssl":   true,
-      "cache": false 184.174.32.225
+      "cache": false 
     },
     {
       "name": "chaingate",
