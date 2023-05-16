@@ -15,13 +15,6 @@
       "cache": false
     },
     {
-     "name": "infomack",
-      "url": "194.163.132.39", 
-      "port": 22101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
       "name": "anythingHere",
       "url": "45.84.138.159",
       "port": 22101,
@@ -41,6 +34,13 @@
       "port": 22101,
       "ssl":   true,
       "cache": false 
+    },
+    {
+     "name": "infomack",
+      "url": "194.163.132.39", 
+      "port": 22101,
+      "ssl":   false,
+      "cache": false
     },
     {
       "name": "chaingate",
