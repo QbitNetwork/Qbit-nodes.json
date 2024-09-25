@@ -4,21 +4,21 @@
       "name": "explorer",
       "url": "qbitblockexplorer.com",
       "port": 22101,
-      "ssl":   true,
+      "ssl":   false,
       "cache": false
     },
     {
       "name": "chainConnectinfo",
       "url": "qbitconnect.com",
       "port": 22101,
-      "ssl":   true,
+      "ssl":   ffalse,
       "cache": false
     },
      {
       "name": "qbitsilver",
       "url": "qbitmoney.net",
       "port": 22101,
-      "ssl":   true,
+      "ssl":   false,
       "cache": false
     },
     {
@@ -34,13 +34,6 @@
       "port": 22101,
       "ssl":   false,
       "cache": false
-    },
-    {
-      "name": "QbitMoneyExplorer",
-      "url": "213.136.80.146", 
-      "port": 22101,
-      "ssl":   true,
-      "cache": false 
     },
     {
      "name": "infomack",
