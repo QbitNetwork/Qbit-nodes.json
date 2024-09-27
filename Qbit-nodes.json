@@ -1,8 +1,8 @@
 {
   "nodes": [
     {
-      "name": "qbitcryptocurrency.com",
-      "url": "89.116.30.113",
+      "name": "Qbitchaininfo",
+      "url": "qbitcryptocurrency.com",
       "port": 22101,
       "ssl":   false,
       "cache": false
