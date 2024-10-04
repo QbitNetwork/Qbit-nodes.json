@@ -14,13 +14,6 @@
       "ssl":   false,
       "cache": false
     },
-     {
-      "name": "qbitsilver",
-      "url": "qbitmoney.net",
-      "port": 22101,
-      "ssl":   false,
-      "cache": false
-    },
     {
       "name": "anythingHere",
       "url": "qbitcurrency.cc",
