@@ -27,70 +27,8 @@
       "port": 22101,
       "ssl":   false,
       "cache": false
-    },
-    {
-      "name": "qbitallwaysup",
-      "url": "qbitmoney.net",
-      "port": 22101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-     "name": "infomack",
-      "url": "194.163.132.39", 
-      "port": 22101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "chaingate",
-      "url": "165.30.130.220",
-      "port": 22101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "maznode",
-      "url": "29.48.165.16",
-      "port": 22101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "popsplant",
-      "url": "151.154.72.57",
-      "port": 22101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "iamworking",
-      "url": "184.91.190.222",
-      "port": 22101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "testmycode",
-      "url": "208.49.227.106",
-      "port": 22101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "moneymine",
-      "url": "80.40.40.168",
-      "port": 22101,
-      "ssl":   false,
-      "cache": false
-    },
-    {
-      "name": "limaservernode",
-      "url": "103.255.60.203",
-      "port": 22101,
-      "ssl":   false,
-      "cache": false
     }
+   
   ]
 }
 
