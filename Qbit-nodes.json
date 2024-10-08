@@ -153,6 +153,13 @@
       "port": 22101,
       "ssl":   false,
       "cache": false
+    },
+    {
+      "name": "incuca",
+      "url": "96.7.236.0",
+      "port": 22101,
+      "ssl":   false,
+      "cache": false
     }
   ]
 }
