@@ -97,7 +97,35 @@
       "port": 22101,
       "ssl":   false,
       "cache": false
-    }    
+    },
+    {
+      "name": "Poro",
+      "url": "103.145.92.0",
+      "port": 22101,
+      "ssl":   false,
+      "cache": false
+    },
+    {
+      "name": "edward",
+      "url": "103.255.60.0",
+      "port": 22101,
+      "ssl":   false,
+      "cache": false
+    },
+    {
+      "name": "kiera",
+      "url": "109.176.247.0",
+      "port": 22101,
+      "ssl":   false,
+      "cache": false
+     },
+     {
+      "name": "moneyland",
+      "url": "185.236.222.0",
+      "port": 22101,
+      "ssl":   false,
+      "cache": false
+    }
   ]
 }
 
