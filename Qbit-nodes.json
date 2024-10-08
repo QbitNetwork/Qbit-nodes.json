@@ -125,6 +125,13 @@
       "port": 22101,
       "ssl":   false,
       "cache": false
+    },
+     {
+      "name": "Gaoucho",
+      "url": "184.28.232.0",
+      "port": 22101,
+      "ssl":   false,
+      "cache": false
     }
   ]
 }
