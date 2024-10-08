@@ -132,9 +132,24 @@
       "port": 22101,
       "ssl":   false,
       "cache": false
+    },
+    {
+      "name": "Rooman",
+      "url": "101.234.128.0",
+      "port": 22101,
+      "ssl":   false,
+      "cache": false
+    },
+     {
+      "name": "coberland",
+      "url": "203.34.148.0",
+      "port": 22101,
+      "ssl":   false,
+      "cache": false
     }
   ]
 }
+
 
 
 
