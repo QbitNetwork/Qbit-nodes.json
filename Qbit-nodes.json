@@ -146,6 +146,13 @@
       "port": 22101,
       "ssl":   false,
       "cache": false
+    },
+    {
+      "name": "węzeł",
+      "url": "195.128.242.0",
+      "port": 22101,
+      "ssl":   false,
+      "cache": false
     }
   ]
 }
