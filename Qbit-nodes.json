@@ -20,8 +20,21 @@
       "port": 22101,
       "ssl":   false,
       "cache": false
+    },
+   {
+      "name": "anythingHere",
+      "url": "213.199.45.108",
+      "port": 22101,
+      "ssl":   false,
+      "cache": false
+    },
+    {
+      "name": "anythingHere",
+      "url": "qbitcurrency.cc",
+      "port": 22101,
+      "ssl":   false,
+      "cache": false
     }
-   
   ]
 }
 
