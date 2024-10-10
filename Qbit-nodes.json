@@ -162,7 +162,7 @@
       "cache": false
     },
      {
-      "name": "Qbitmoney.net",
+      "name": "Qbitmoney",
       "url": "89.117.48.208",
       "port": 22101,
       "ssl":   false,
