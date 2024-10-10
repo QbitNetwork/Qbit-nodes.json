@@ -21,6 +21,13 @@
       "ssl":   false,
       "cache": false
     },
+    {
+      "name": "Qbitmoney",
+      "url": "qbitmoney.net",
+      "port": 22101,
+      "ssl":   false,
+      "cache": false
+    },
    {
       "name": "HereIam",
       "url": "213.199.45.108",
@@ -157,13 +164,6 @@
     {
       "name": "incuca",
       "url": "96.7.236.0",
-      "port": 22101,
-      "ssl":   false,
-      "cache": false
-    },
-     {
-      "name": "Qbitmoney",
-      "url": "qbitmoney.net",
       "port": 22101,
       "ssl":   false,
       "cache": false
