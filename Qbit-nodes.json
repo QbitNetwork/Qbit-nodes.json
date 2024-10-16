@@ -37,7 +37,7 @@
     },
     {
       "name": "brandy",
-      "url": "154.123.251.212",
+      "url": "qbit.money",
       "port": 22101,
       "ssl":   false,
       "cache": false
